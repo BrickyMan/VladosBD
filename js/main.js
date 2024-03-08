@@ -16,8 +16,8 @@ let requestStoryIndex = -1;
 // |    |   |
 // |    |  _| 
 // |    | |_|
-// |____| \_|
-// |    | ,_|x
+// |____| \Х|
+// |    | ,_|
 // |    |-'-|
 // |    |   |
 // |____|*__|
@@ -47,7 +47,7 @@ let fileSystem = {
                                     'centre_colour.txt': 'Look at <a href="https://img.freepik.com/premium-photo/water-plastic-bottles-isolated-on-white-with-clipping-path_105428-2911.jpg" target="_blank">this</a> gentleman.',
                                     'nothin_special': {
                                         'map.txt': '3=m=mэ (-o-#)',
-                                        'blowjob.txt': "__________\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;_|&nbsp;\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|_|\n|____|&nbsp;\\_|\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;,_|x\n|&nbsp;&nbsp;&nbsp;&nbsp;|-'-|\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|\n|____|*__|"
+                                        'blowjob.txt': "__________\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;_|&nbsp;\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|_|\n|____|&nbsp;\\Х|\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;,_|\n|&nbsp;&nbsp;&nbsp;&nbsp;|-'-|\n|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|\n|____|*__|"
                                     }
                                 }
                             }
